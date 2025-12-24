@@ -1,4 +1,4 @@
-# 🇮🇳 Marathi Voice-Based Government Schemes Agent
+# Marathi Voice-Based Government Schemes Agent
 
 A sophisticated agentic AI system that helps users discover and apply for government welfare schemes through voice interaction in Marathi. Built with a **Planner-Executor-Evaluator** architecture using open-source LLMs.
 
